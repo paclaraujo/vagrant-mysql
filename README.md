@@ -57,6 +57,6 @@ SELECT * FROM book;
 - [Vagrant](https://www.vagrantup.com/)
 - [VirtualBox](https://www.virtualbox.org/) 
 
-## Authors
+## Autora
 
 * **Paloma Araujo** - [@paclaraujo](https://github.com/paclaraujo)
